@@ -19,8 +19,8 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
     @IBAction func presentController(_ sender: Any) {
-        
         if let vc = self.storyboard?.instantiateViewController(withIdentifier: "presentMe") {
             vc.modalPresentationStyle = .formSheet
             self.present(vc, animated: true, completion: nil)
@@ -28,8 +28,4 @@ class ViewController: UIViewController {
     }
 }
 
-
-class Animator: UIViewControllerTransitioningDelegate {
-    
-}
 

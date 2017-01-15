@@ -80,20 +80,6 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 
 ❌ Realm
 
-##Design Patterns in Swift 
-
-###Creational
-
-✅ Prototype
-
-✅ Singleton
-
-✅ Factory Method
-
-✅ Builder
-
-❌ Abstract Factory
-
 ## Swift Coding Challenges 
 
 ✅ Swapping two values with one line of code
@@ -105,56 +91,6 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 ✅ Print each value of an array without using any loop operators, variables, nor any built-in Array functions
 
 ✅ Write a String Extension that uses recursion to reverse a String 
-
-
-##objc.io Swift Talks 
-
-❌ Networking 
-
-❌ Rendering CommonMark
-
-❌ Generic TableViews 
-
-❌ Loading View Controllers
-
-❌ Rendering CommonMark (Part 2)
-
-❌ Connecting View Controllers
-
-❌ Generic Table View Controllers
-
-❌ Stack Views with Enums
-
-❌ Networking: POST Requests
-
-##WWDC 2016 
-
-✅ What's new in Swift 3
-
-✅ What's new in Foundation for Swift 3
-
-✅ What's new in Autolayout 
-
-✅ Improving Apps with modern best practices 
-
-✅ Understanding Swift Performance
-
-❌ NSURLSession: New Features and Best Practices
-
-❌ Protocol and Value Oriented Programming in UIKit Apps 
-
-❌ Concurrent Programming With GCD in Swift 3
-
-❌ Making Apps Adaptive, Part 1 & 2
-
-##WWDC 2015
-
-❌ Optimizing Swift Performance
-
-❌ Protocol-Oriented Programming in Swift 
-
-❌ Building Better Apps with Value Types in Swift 
- 
 
 ##I also write Blog Posts on a regular basis:
 
