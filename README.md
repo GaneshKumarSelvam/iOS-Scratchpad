@@ -98,6 +98,9 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 ###My iOS Development Toolkit
 https://medium.com/ios-os-x-development/my-ios-development-toolkit-2016-ba7601b68085#.8e80w9fog
 
+###My first Cocoapod is here 🎉 — Jelly 1.0
+https://medium.com/ios-os-x-development/my-first-cocoapod-is-here-jelly-1-0-71fefa3be0f4#.l3omqnwde
+
 ###Swift Optionals
 https://medium.com/ios-os-x-development/swift-optionals-78dafaa53f3#.tutvx35l6
 
