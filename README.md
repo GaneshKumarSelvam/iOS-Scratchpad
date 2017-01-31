@@ -48,7 +48,7 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 
 ✅ Custom Viewcontroller Transitions https://github.com/SebastianBoldt/Jelly
 
-❌ Animations
+✅ Core Animation
 
 ❌ NSURLSession
 
@@ -91,6 +91,7 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 ✅ Print each value of an array without using any loop operators, variables, nor any built-in Array functions
 
 ✅ Write a String Extension that uses recursion to reverse a String 
+
 
 ##I also write Blog Posts on a regular basis:
 
