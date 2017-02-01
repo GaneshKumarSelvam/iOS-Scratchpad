@@ -5,6 +5,12 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:MasterPlayground.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Drawing Application/Drawing Application.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:StackViews/StackViews.xcodeproj">
    </FileRef>
    <FileRef
@@ -68,12 +74,12 @@
       location = "group:SpriteKit/SpriteKit.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:MasterPlayground.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Behavioral-Design-Patterns.playground">
+      location = "group:Coding Challenges.playground">
    </FileRef>
    <FileRef
       location = "group:WWDC 2016.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Animations.playground">
    </FileRef>
 </Workspace>
