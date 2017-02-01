@@ -13,5 +13,7 @@
         <page name='CALayer'/>
         <page name='Associated Types'/>
         <page name='Custom Controls'/>
+        <page name='Animations'/>
+        <page name='NSURLSession'/>
     </pages>
 </playground>

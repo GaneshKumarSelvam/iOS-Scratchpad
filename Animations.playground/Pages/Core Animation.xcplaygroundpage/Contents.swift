@@ -49,13 +49,26 @@ labelDefault.textAlignment = .center
 animationViewDefault.addSubview(labelDefault)
 containerView.addSubview(animationViewDefault)
 
+class AnimationDelegate : NSObject, CAAnimationDelegate {
+    func animationDidStart(_ anim: CAAnimation) {
+        print(anim)
+    }
+    
+    func animationDidStop(_ anim: CAAnimation, finished flag: Bool) {
+        print(anim)
+    }
+}
+
+let delegate = AnimationDelegate()
 let animation = CABasicAnimation(keyPath: "basic")
 animation.keyPath = "position.x"
 animation.fromValue = 0.0
 animation.toValue = 700.0
 animation.duration = 5.0
-animation.isRemovedOnCompletion = true
+animation.isRemovedOnCompletion = false
 animation.repeatCount = 10
+animation.delegate = delegate
+
 
 animation.timingFunction = CAMediaTimingFunction(name: kCAMediaTimingFunctionLinear)
 animationViewLinear.layer.add(animation, forKey: "basic")

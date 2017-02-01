@@ -2,9 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Animations.playground">
-   </FileRef>
-   <FileRef
       location = "group:README.md">
    </FileRef>
    <FileRef
@@ -81,5 +78,8 @@
    </FileRef>
    <FileRef
       location = "group:WWDC 2016.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Animations.playground">
    </FileRef>
 </Workspace>
