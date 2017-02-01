@@ -60,7 +60,6 @@ func createRoundedPathWithDashedLine()-> UIImage {
     let dashes :[CGFloat]  = [10,20,50,20] // Gap,Stroke,Gap,Stroke
     UIColor.redColor().setStroke()
     path.lineWidth = 10
-    path.setLineDash(dashes, count: 4, phase: 0)
     UIColor.blueColor().setFill()
     path.fill()
     path.stroke()
