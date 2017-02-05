@@ -5,6 +5,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:UICollectionView/UICollectionView.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:MasterPlayground.playground">
    </FileRef>
    <FileRef

@@ -52,6 +52,10 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 
 ✅ NSURLSession
 
+✅ CollectionView
+
+❌ Custom CollectionView Layouts
+
 ❌ CloudKit
 
 ❌ SearchAPI
@@ -69,10 +73,6 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 ❌ UI-Testing
 
 ❌ Core Data
-
-❌ CollectionView
-
-❌ CollectionViewLayout
 
 ❌ SpriteKit
 

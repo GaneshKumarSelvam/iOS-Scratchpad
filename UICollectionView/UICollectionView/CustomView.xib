@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Test" id="fa4-GH-AKZ" customClass="TestCollectionViewCell" customModule="UICollectionView" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="232" height="256"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="232" height="256"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="UvQ-2o-Rm4">
+                        <rect key="frame" x="8" y="8" width="216" height="240"/>
+                        <color key="backgroundColor" red="0.11799999999999999" green="0.77700000000000002" blue="0.53900000000000003" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="iXW-Fn-iNa">
+                        <rect key="frame" x="0.0" y="0.0" width="232" height="256"/>
+                        <color key="backgroundColor" white="0.5" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Test" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F94-yh-oBi">
+                        <rect key="frame" x="99.5" y="118" width="33" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.96099999999999997" green="0.17599999999999999" blue="0.192" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <color key="backgroundColor" red="0.96099999999999997" green="0.17599999999999999" blue="0.192" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="iXW-Fn-iNa" firstAttribute="top" secondItem="fa4-GH-AKZ" secondAttribute="top" id="3ba-c0-s59"/>
+                <constraint firstItem="UvQ-2o-Rm4" firstAttribute="leading" secondItem="fa4-GH-AKZ" secondAttribute="leading" constant="8" id="IqO-8G-ajO"/>
+                <constraint firstAttribute="trailing" secondItem="iXW-Fn-iNa" secondAttribute="trailing" id="Jfn-Nt-rfV"/>
+                <constraint firstAttribute="bottom" secondItem="iXW-Fn-iNa" secondAttribute="bottom" id="Psy-r3-kgv"/>
+                <constraint firstItem="UvQ-2o-Rm4" firstAttribute="top" secondItem="fa4-GH-AKZ" secondAttribute="top" constant="8" id="SF0-3R-oZS"/>
+                <constraint firstAttribute="bottom" secondItem="UvQ-2o-Rm4" secondAttribute="bottom" constant="8" id="hHS-wI-0AP"/>
+                <constraint firstItem="iXW-Fn-iNa" firstAttribute="leading" secondItem="fa4-GH-AKZ" secondAttribute="leading" id="j8V-vO-QHX"/>
+                <constraint firstItem="F94-yh-oBi" firstAttribute="centerX" secondItem="fa4-GH-AKZ" secondAttribute="centerX" id="pnc-83-3Uv"/>
+                <constraint firstAttribute="trailing" secondItem="UvQ-2o-Rm4" secondAttribute="trailing" constant="8" id="xCC-Mf-J5R"/>
+                <constraint firstItem="F94-yh-oBi" firstAttribute="centerY" secondItem="fa4-GH-AKZ" secondAttribute="centerY" id="xzH-mp-0po"/>
+            </constraints>
+            <size key="customSize" width="232" height="256"/>
+            <connections>
+                <outlet property="backgroundView" destination="UvQ-2o-Rm4" id="MLH-ie-xSW"/>
+                <outlet property="selectedBackgroundView" destination="iXW-Fn-iNa" id="i6k-Az-9SH"/>
+            </connections>
+            <point key="canvasLocation" x="-30" y="61"/>
+        </collectionViewCell>
+    </objects>
+</document>
