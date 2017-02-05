@@ -54,6 +54,8 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 
 ✅ CollectionView
 
+✅ Realm
+
 ❌ Custom CollectionView Layouts
 
 ❌ CloudKit
@@ -78,7 +80,6 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 
 ❌ Core Text / TextKit
 
-❌ Realm
 
 ## Swift Coding Challenges 
 
