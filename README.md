@@ -56,7 +56,7 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 
 ✅ Realm
 
-❌ RxSwift
+✅ RxSwift https://github.com/SebastianBoldt/Learn-and-Master-RxSwift
 
 ❌ Custom CollectionView Layouts
 
