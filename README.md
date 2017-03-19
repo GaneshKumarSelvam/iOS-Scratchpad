@@ -58,6 +58,8 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 
 ✅ User Notifications
 
+✅ RxSwift https://github.com/SebastianBoldt/Learn-and-Master-RxSwift
+
 ❌ Custom CollectionView Layouts
 
 ❌ CloudKit
