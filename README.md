@@ -98,7 +98,7 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 ✅ Write a String Extension that uses recursion to reverse a String 
 
 
-##I also write Blog Posts on a regular basis:
+## My Blog:
 
 ### Learn & Master ⚔️ the Basics of RxSwift in 10 Minutes
 https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b#.q21pjqgue
