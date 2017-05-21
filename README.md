@@ -24,6 +24,10 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 
 ✅ Associated Types
 
+❌ Lenses
+
+❌ Type Erasure
+
 ## iOS-Projects 
 
 ✅ GCD - Grand Central Dispatch
