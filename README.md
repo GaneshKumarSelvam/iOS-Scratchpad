@@ -64,15 +64,17 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 
 ✅ RxSwift https://github.com/SebastianBoldt/Learn-and-Master-RxSwift
 
+✅ Saving Data (NSUserDefaults,SQlite & Co.)
+
+✅  UI-Testing
+
+✅  Adaptive Layout 
+
 ❌ Custom CollectionView Layouts
 
 ❌ CloudKit
 
 ❌ SearchAPI
-
-❌ Saving Data (NSUserDefaults,SQlite & Co.)
-
-❌ Adaptive Layout 
 
 ❌ App Extensions
 
@@ -80,13 +82,15 @@ to learn new iOS releated things and improve my iOS Framework and Swift Language
 
 ❌ AVFoundation
 
-❌ UI-Testing
-
 ❌ Core Data
 
 ❌ SpriteKit
 
 ❌ Core Text / TextKit
+
+❌ Core ML
+
+❌ ARKit 
 
 
 ## Swift Coding Challenges 
